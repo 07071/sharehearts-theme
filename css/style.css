@@ -37,7 +37,7 @@ body {
 
 #header {
     height: 60px;
-    background-color:  rgba(16, 16, 16  , 0.85);
+    background-color:  rgba(16, 16, 16  , 0.65);
     position: relative;
     display: flex;
     align-items: center;
@@ -116,12 +116,12 @@ body {
   width: var(--switch-handle-size);
   height: var(--switch-handle-size);
   border-radius: var(--switch-handle-size);
-  background: #F4C99D;
+  background: #fa5c78;
   transition: left .3s, transform .3s, width .3s;
 }
 
 .c-switch__values:hover::after {
-  background: #DEAE7E;
+  background: #f9b9b7;
 }
 
 .c-switch__values:active::after {
