@@ -1,8 +1,8 @@
 const users = document.getElementById('users');
 const filter = document.getElementById('filter');
-    const rottenburrito = `<img src=broken_heart.png>`;
+    const rottenburrito = `<img src=bad.png>`;
 
-    const burrito = `          <img src=heart.png>`;
+    const burrito = `          <img src=good.png>`;
 
 let store = [];
 
