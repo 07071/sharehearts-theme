@@ -116,12 +116,12 @@ body {
   width: var(--switch-handle-size);
   height: var(--switch-handle-size);
   border-radius: var(--switch-handle-size);
-  background: #fa5c78;
+  background: #fea828;
   transition: left .3s, transform .3s, width .3s;
 }
 
 .c-switch__values:hover::after {
-  background: #f9b9b7;
+  background: #feeda2;
 }
 
 .c-switch__values:active::after {
